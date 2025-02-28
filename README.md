@@ -1,0 +1,1 @@
+Olá, esse é um projeto da faculdade. Na matéria de IoT & Big Data & IA
